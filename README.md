@@ -1,4 +1,4 @@
-# Hangman
+# Binary Search
 *Basic example of a binary search.*
 
 ## HOW TO USE
