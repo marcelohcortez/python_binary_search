@@ -1,5 +1,5 @@
-# Binary Search
-*Basic example of a binary search.*
+# Binary Search with Recursion
+*Basic example of a binary search using recursion.*
 
 ## HOW TO USE
 Just run the *binary_search.py* file
